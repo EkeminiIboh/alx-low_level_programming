@@ -1,6 +1,12 @@
-#include <stdio.h>
+#include "main.h"
 
-int main() {
-    printf("_putchar\n");
-    return 0;
+ /**
+ *print_alphabet-print the alphabets in lowercase
+ *
+ *Retur:return 0 always
+ */
+int main(void);
+{
+printf("_putchar\n");
+return (0);
 }
